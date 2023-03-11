@@ -1,5 +1,5 @@
 # SQL_Project_Music_Store_Analysis
-Data Analysis for Digital Music Store using SQL
+SQL project to analyze online music store data
 
 > Complete project explained on YouTube: https://www.youtube.com/@RishabhMishraOfficial
 
